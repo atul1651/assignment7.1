@@ -1,0 +1,26 @@
+<!doctype html>
+
+<html>
+<head>
+
+<title>Calculation of area of circe using function</title>
+
+</head>
+
+<body>
+<header>only function  has been used</header>
+<script>
+
+function areaofcircle(r){
+
+alert(3.18*r*r);
+
+}
+areaofcircle(10);
+
+console.log(areaofcircle(10));
+
+</script>
+
+</body>
+</html>
